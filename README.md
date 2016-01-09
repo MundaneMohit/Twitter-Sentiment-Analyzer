@@ -3,6 +3,11 @@ I introduce a novel approach for automatically classifying the sentiment of Twit
 
 
 Thank you for trying Twitter Sentiment Analyzer.
+
+For the complete documentation, refer this link:
+
+https://drive.google.com/file/d/0BxJByoR4a_n2MWhJRUY3V1dQem8/view?usp=sharing
+
 Following are the steps to install and run the software on Windows/Linux:
 
 
